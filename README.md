@@ -4,14 +4,14 @@ android library TwoLineSeekBar
 
 # Demo
 
-[<img src="/store/Gif1.gif">](https://play.google.com/store/apps/details?id=com.hoanganhtuan01101995.camdoc) 
+[<img src="/store/Gif1.gif">](https://play.google.com/store/apps/details?id=com.hoanganhtuan95ptit.camdoc_productivity) 
 
 # Project
 
 
 Icon | Name | Link Google Play
 ------------ | ------------ | -------------
-[<img src="/store/ic_launcher.png">](https://play.google.com/store/apps/details?id=com.hoanganhtuan01101995.camdoc) | [CamDoc - Document Scanner, PDF Scanner App 2018](https://play.google.com/store/apps/details?id=com.hoanganhtuan01101995.camdoc) | [<img src="/store/Store.png">](https://play.google.com/store/apps/details?id=com.hoanganhtuan01101995.camdoc)
+[<img src="/store/ic_launcher.png">](https://play.google.com/store/apps/details?id=com.hoanganhtuan95ptit.camdoc_productivity) | [CamDoc - Document Scanner, PDF Scanner App 2018](https://play.google.com/store/apps/details?id=com.hoanganhtuan95ptit.camdoc_productivity) | [<img src="/store/Store.png">](https://play.google.com/store/apps/details?id=com.hoanganhtuan95ptit.camdoc_productivity)
 
 
 
