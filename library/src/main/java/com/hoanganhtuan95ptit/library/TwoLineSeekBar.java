@@ -396,11 +396,11 @@ public class TwoLineSeekBar extends View {
 
         public boolean onScroll(MotionEvent e1, MotionEvent e2, float distanceX, float distanceY) {
             mThumbOffset -= distanceX;
-            if (mThumbOffset < mSeekLineStart - mThumbRadius) {
-                mThumbOffset = mSeekLineStart - mThumbRadius;
+            if (mThumbOffset < mSeekLineStart - mThumbRadius - getPaddingLeft()) {
+                mThumbOffset = mSeekLineStart - mThumbRadius - getPaddingLeft();
             }
-            if (mThumbOffset > mSeekLineEnd - mThumbRadius) {
-                mThumbOffset = mSeekLineEnd - mThumbRadius;
+            if (mThumbOffset > mSeekLineEnd - mThumbRadius - getPaddingLeft()) {
+                mThumbOffset = mSeekLineEnd - mThumbRadius - getPaddingLeft();
             }
             float newValue;
             if (mThumbOffset < mNailOffset - mDefaultAreaRadius) {
